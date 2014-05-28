@@ -10,6 +10,7 @@ package Banco;
  *
  * @author sena
  */
-public class Empleados {
-    
+public class Contacto {
+    //variables
+    int s;
 }
