@@ -12,5 +12,7 @@ package Banco;
  */
 public class Contacto {
     //variables
-    int s;
+    String email;
+    String lineaTelefonica;
+    
 }
