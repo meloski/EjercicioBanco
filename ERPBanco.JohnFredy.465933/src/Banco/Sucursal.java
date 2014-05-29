@@ -11,5 +11,5 @@ package Banco;
  * @author sena
  */
 public class Sucursal {
-    
+    String direccion;
 }

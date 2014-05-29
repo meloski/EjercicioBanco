@@ -17,6 +17,8 @@ public class CCorriente {
     String targetaCredito;
     int numeroTargetaC;
     boolean chequeraBloqueada;
+    int a;
+    String nb;
 
     public int getTasaInteres() {
         return tasaInteres;

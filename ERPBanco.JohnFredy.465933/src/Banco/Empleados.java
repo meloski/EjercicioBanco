@@ -10,11 +10,7 @@ package Banco;
  *
  * @author sena
  */
-public class Contacto {
-    //variables
-    String email;
-    String lineaTelefonica;
-    String asesoriaTecnica;
-    int NumEmpleados;
+public class Empleados {
+    String id;
     
 }

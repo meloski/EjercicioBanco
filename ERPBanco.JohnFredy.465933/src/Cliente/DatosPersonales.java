@@ -17,7 +17,7 @@ public class DatosPersonales {
    int telefono;
    String direccion;
    String email;
-   int a;
+   
 
     public String getCedula() {
         return cedula;
