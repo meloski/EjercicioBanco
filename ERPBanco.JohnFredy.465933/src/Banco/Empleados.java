@@ -13,5 +13,4 @@ package Banco;
 public class Empleados {
     String id;
     int tel;
-    String direccion;
 }
